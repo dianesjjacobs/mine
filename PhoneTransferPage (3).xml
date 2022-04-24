@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Skin>
+  <Item Name="imgMusicTransfer">
+    <Part id="0" Name="Frame" FillMode="stretch" TransparentMode="Alpha">
+      <Graphic Name="toolbox.png" />
+      <State Left="200" Top="291" Width="83" Height="83" />
+    </Part>
+  </Item>
+  <Item Name="imgTransferSelectedIcon">
+    <Part id="0" Name="Frame" FillMode="center" TransparentMode="Alpha">
+      <Graphic Name="toolbox.png" />
+      <State Left="227" Top="520" Width="30" Height="30" />
+    </Part>
+  </Item>
+  <Item Name="imgCannotTransferIcon">
+    <Part id="0" Name="Frame" FillMode="stretch" TransparentMode="Alpha">
+      <Graphic Name="toolbox.png" />
+      <State Left="289" Top="551" Width="30" Height="30" />
+    </Part>
+  </Item>
+  <Item Name="imgItemNotSelectedIcon">
+    <Part id="0" Name="Frame" FillMode="stretch" TransparentMode="Alpha">
+      <Graphic Name="toolbox.png" />
+      <State Left="227" Top="487" Width="30" Height="30" />
+    </Part>
+  </Item>
+  <Item Name="imgVideoTransfer">
+    <Part id="0" Name="Frame" FillMode="stretch" TransparentMode="Alpha">
+      <Graphic Name="toolbox.png" />
+      <State Left="288" Top="291" Width="82" Height="83" />
+    </Part>
+  </Item>
+  <Item Name="imgPlaylistTransfer">
+    <Part id="0" Name="Frame" FillMode="stretch" TransparentMode="Alpha">
+      <Graphic Name="toolbox.png" />
+      <State Left="379" Top="291" Width="82" Height="83" />
+    </Part>
+  </Item>
+  <Item Name="imgPhotoTransfer">
+    <Part id="0" Name="Frame" FillMode="stretch" TransparentMode="Alpha">
+      <Graphic Name="toolbox.png" />
+      <State Left="467" Top="291" Width="82" Height="83" />
+    </Part>
+  </Item>
+  <Item Name="imgContactsTransfer">
+    <Part id="0" Name="Frame" FillMode="stretch" TransparentMode="Alpha">
+      <Graphic Name="toolbox.png" />
+      <State Left="559" Top="291" Width="83" Height="83" />
+    </Part>
+  </Item>
+  <Item Name="imgSmsTransfer">
+    <Part id="0" Name="Frame" FillMode="stretch" TransparentMode="Alpha">
+      <Graphic Name="toolbox.png" />
+      <State Left="647" Top="291" Width="82" Height="83" />
+    </Part>
+  </Item>
+  <Item Name="imgSourceDeviceIOS">
+    <Part id="0" Name="Frame" FillMode="stretch" TransparentMode="Alpha">
+      <Graphic Name="device.png" />
+      <State Left="398" Top="542" Width="149" Height="302" />
+    </Part>
+  </Item>
+  <Item Name="imgTransferArrow">
+    <Part id="0" Name="Frame" FillMode="stretch" TransparentMode="Alpha">
+      <Graphic Name="device.png" />
+      <State Left="197" Top="760" Width="82" Height="93" />
+    </Part>
+  </Item>
+  <Item Name="imgSourceDeviceAndroid">
+    <Part id="0" Name="Frame" FillMode="stretch" TransparentMode="Alpha">
+      <Graphic Name="device.png" />
+      <State Left="620" Top="541" Width="149" Height="295" />
+    </Part>
+  </Item>
+  <Item Name="imgDestDeviceIOS">
+    <Part id="0" Name="Frame" FillMode="stretch" TransparentMode="Alpha">
+      <Graphic Name="device.png" />
+      <State Left="398" Top="881" Width="149" Height="302" />
+    </Part>
+  </Item>
+  <Item Name="imgDestDeviceAndoid">
+    <Part id="0" Name="Frame" FillMode="stretch" TransparentMode="Alpha">
+      <Graphic Name="device.png" />
+      <State Left="620" Top="541" Width="149" Height="295" />
+    </Part>
+  </Item>
+  <Item Name="imgMusicCanTransfer">
+    <Part id="0" Name="Frame" FillMode="stretch" TransparentMode="Alpha">
+      <Graphic Name="toolbox.png" />
+      <State Left="200" Top="383" Width="83" Height="83" />
+    </Part>
+  </Item>
+  <Item Name="imgVidoeCanTransfer">
+    <Part id="0" Name="Frame" FillMode="stretch" TransparentMode="Alpha">
+      <Graphic Name="toolbox.png" />
+      <State Left="288" Top="383" Width="82" Height="83" />
+    </Part>
+  </Item>
+  <Item Name="imgPlaylistCanTransfer">
+    <Part id="0" Name="Frame" FillMode="stretch" TransparentMode="Alpha">
+      <Graphic Name="toolbox.png" />
+      <State Left="379" Top="383" Width="82" Height="83" />
+    </Part>
+  </Item>
+  <Item Name="imgContactCanTransfer">
+    <Part id="0" Name="Frame" FillMode="stretch" TransparentMode="Alpha">
+      <Graphic Name="toolbox.png" />
+      <State Left="559" Top="383" Width="83" Height="83" />
+    </Part>
+  </Item>
+  <Item Name="imgPhotoCanTransfer">
+    <Part id="0" Name="Frame" FillMode="stretch" TransparentMode="Alpha">
+      <Graphic Name="toolbox.png" />
+      <State Left="467" Top="383" Width="82" Height="83" />
+    </Part>
+  </Item>
+  <Item Name="imgLoadingTransItem">
+    <Part id="0" Name="Frame" FillMode="stretch" TransparentMode="Alpha">
+      <Graphic Name="device.png" />
+      <State Left="234" Top="2313" Width="83" Height="83">
+        <Animation FrameCount="12" FrameDelay="50" />
+      </State>
+    </Part>
+  </Item>
+  <Item Name="imgSmsCanTransfer">
+    <Part id="0" Name="Frame" FillMode="stretch" TransparentMode="Alpha">
+      <Graphic Name="toolbox.png" />
+      <State Left="647" Top="383" Width="82" Height="83" />
+    </Part>
+  </Item>
+</Skin>
